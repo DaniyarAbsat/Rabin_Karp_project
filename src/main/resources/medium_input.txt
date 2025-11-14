@@ -1,0 +1,2 @@
+This is a medium-sized example text for testing the Rabin-Karp algorithm.
+Somewhere inside this text, there is a test pattern hidden.
